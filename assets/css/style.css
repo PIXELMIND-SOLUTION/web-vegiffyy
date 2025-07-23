@@ -990,7 +990,8 @@ h2 {
         04.ABOUT css 
 ===========================*/
 .about_image img {
-  border-radius: 5px;
+  border-radius: 30px;
+  box-shadow: 0 10px 16px rgba(19, 18, 18, 0.1);
   width: 100%; }
 
 .about_content .about_title {
